@@ -3,6 +3,7 @@
 
 import React from 'react' // import everything from react library into React variable
 import {render} from 'react-dom' // import render method from react-dom package
+import './css/style.css'
 
 import StorePicker from './components/StorePicker'
 
